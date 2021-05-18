@@ -1,0 +1,2 @@
+# cosmodc
+Cosmo Discord Bot 
